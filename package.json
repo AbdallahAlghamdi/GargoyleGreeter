@@ -1,0 +1,18 @@
+{
+  "name": "garg.oil",
+  "version": "0.0.1",
+  "description": "Discord bot that greets new users",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Greeter"
+  ],
+  "author": "Garg#7981",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
